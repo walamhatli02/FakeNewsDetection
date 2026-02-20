@@ -1,0 +1,10 @@
+# Data
+data/raw/
+data/processed/
+*.csv
+*.pkl
+*.model
+
+# Python cache
+__pycache__/
+*.pyc
