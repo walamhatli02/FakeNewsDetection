@@ -46,14 +46,18 @@ source venv/bin/activate
 3.3) Installer les dépendances :
 
 pip install -r requirements.txt
-Utilisation
-1. Prétraitement des données
+4/ Utilisation
+1. Prétraitement des données:
+
 python code/preprocessing.py
-2. Entraînement du modèle
+
+2. Entraînement du modèle: 
+
 python code/train_model.py
+
 3. Exploration et visualisation
 
-3.4) Ouvrir le notebook : notebooks/FakeNews_Detection.ipynb
+ Ouvrir le notebook : notebooks/FakeNews_Detection.ipynb
 
 Contient :
 
