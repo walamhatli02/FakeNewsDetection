@@ -2,6 +2,8 @@
 
 > Projet final — Cours Python pour Data Science  
 > **Wala Mhatli**
+> **Omar ghannem**
+> **Oumaima ghannem**
 
 ---
 
